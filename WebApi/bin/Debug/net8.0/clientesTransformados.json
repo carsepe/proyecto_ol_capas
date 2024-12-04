@@ -1,0 +1,26 @@
+[
+  {
+    "TipoIdentificacion": "CC",
+    "Identificacion": "123456789",
+    "Nombre": "Juan Perez",
+    "Direccion": "Calle 123",
+    "Telefono": "3001234567",
+    "FechaNacimiento": "1985-03-15T00:00:00"
+  },
+  {
+    "TipoIdentificacion": "TI",
+    "Identificacion": "987654321",
+    "Nombre": "Maria Lopez",
+    "Direccion": "Carrera 45",
+    "Telefono": "3209876543",
+    "FechaNacimiento": "1990-07-20T00:00:00"
+  },
+  {
+    "TipoIdentificacion": "CE",
+    "Identificacion": "192837465",
+    "Nombre": "Carlos Ruiz",
+    "Direccion": "Avenida 67",
+    "Telefono": "3111928374",
+    "FechaNacimiento": "2000-01-10T00:00:00"
+  }
+]

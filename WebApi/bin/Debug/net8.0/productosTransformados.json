@@ -1,0 +1,23 @@
+[
+  {
+    "Codigo": "P001",
+    "NombreProducto": "Producto A",
+    "Descripcion": "Desc A",
+    "Stock": 10,
+    "FechaVencimiento": "2024-12-31T00:00:00"
+  },
+  {
+    "Codigo": "P002",
+    "NombreProducto": "Producto B",
+    "Descripcion": "Desc B",
+    "Stock": 20,
+    "FechaVencimiento": "2025-06-30T00:00:00"
+  },
+  {
+    "Codigo": "P003",
+    "NombreProducto": "Producto C",
+    "Descripcion": "Desc C",
+    "Stock": 15,
+    "FechaVencimiento": "2024-11-15T00:00:00"
+  }
+]
